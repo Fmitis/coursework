@@ -6,4 +6,4 @@
 *Git;
 *Английский язык ‒ B1;
 
-![photo](C:\web\lessons Git\Курсовая работа по итогам модуля «GIT - система контроля версий»\img)
+![photo_2022-06-07_17-36-03](https://user-images.githubusercontent.com/94104725/172381189-512f91bd-e195-4fd3-9f89-28deb3d619af.jpg)
